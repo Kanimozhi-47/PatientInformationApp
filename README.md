@@ -29,3 +29,5 @@ Explicit Intent-	Move to next activity
 Implicit Intent-	Call, SMS, Email
 AlertDialog	-Confirmation before action
 AndroidManifest.xml	Permissions
+1.jpeg
+11.jpeg
